@@ -203,6 +203,10 @@ Repositories should return `List`, `IEnumerable`, or DTO results.
 * Infrastructure → integration tests
 * Presentation → API integration tests
 
+### ✔ Blazor Web App (WebAssembly)
+* InventoryManagement.WebAPI → The Backend/Data Server
+* InventoryManagement.WebUI → The Server Host
+* InventoryManagement.WebUI.Client → The Frontend Client (WASM)
 ---
 
 ## 🎯 Summary
