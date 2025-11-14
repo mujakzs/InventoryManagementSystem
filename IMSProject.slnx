@@ -9,4 +9,6 @@
   <Project Path="InventoryManagement.Domain/InventoryManagement.Domain.csproj" />
   <Project Path="InventoryManagement.Infrastructure/InventoryManagement.Infrastructure.csproj" />
   <Project Path="InventoryManagement.WebApi/InventoryManagement.WebApi.csproj" />
+  <Project Path="InventoryManagement.WebUi/InventoryManagement.WebUi.Client/InventoryManagement.WebUi.Client.csproj" />
+  <Project Path="InventoryManagement.WebUi/InventoryManagement.WebUi/InventoryManagement.WebUi.csproj" />
 </Solution>
