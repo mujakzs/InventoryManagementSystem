@@ -207,6 +207,11 @@ Repositories should return `List`, `IEnumerable`, or DTO results.
 * InventoryManagement.WebAPI → The Backend/Data Server
 * InventoryManagement.WebUI → The Server Host
 * InventoryManagement.WebUI.Client → The Frontend Client (WASM)
+
+* Analogy
+  * WebUi (host) = restaurant building, utilities, and front counter (power, kitchen wiring, security). It orchestrates and serves.
+  * WebUi.Client (browser) = dining area and menu tablet where customers interact.
+  * Shared RCL = a furniture supplier that provides tables and chairs both the host and client use.
 ---
 
 ## 🎯 Summary
@@ -218,8 +223,6 @@ This structure ensures:
 * High testability
 * Cleaner maintainability
 * Easy feature scaling
-
-Your project becomes **future‑proof**, modular, and easier to expand.
 
 ---
 
